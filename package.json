@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "webpack",
-    "start": "webpack-dev-server --host 18.221.135.152"
+    "start": "webpack-dev-server --host http://18.221.135.152:3000"
   },
   "license": "ISC",
   "dependencies": {
